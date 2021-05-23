@@ -19,7 +19,7 @@ Features that I worked on:
 * Pause Menu and Main Menu.
 * Floatation System
 
-![Reel Away](https://github.com/Gexipas/Gexipas/blob/master/Images/ReelAway.png "Reel Away")
+<img src="https://github.com/Gexipas/Gexipas/blob/master/Media/reelaway.gif?raw=true" />
 
 ### Game Engine mk2
 A University project for 3D graphics 
